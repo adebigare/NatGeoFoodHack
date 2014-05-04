@@ -5,7 +5,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['BARINGO']"
+         "name": "['BARINGO']",
+         "density": 134.838222222
         },
         "geometry": {
            "type": "Polygon",
@@ -17,7 +18,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['BOMET']"
+         "name": "['BOMET']",
+         "density": 401.144534884
         },
         "geometry": {
            "type": "Polygon",
@@ -29,7 +31,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['BUNGOMA']"
+         "name": "['BUNGOMA']",
+         "density": 628.457222222
         },
         "geometry": {
            "type": "Polygon",
@@ -41,7 +44,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['BUSIA']"
+         "name": "['BUSIA']",
+         "density": 519.166730769
         },
         "geometry": {
            "type": "Polygon",
@@ -53,7 +57,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['ELGEYO']"
+         "name": "['ELGEYO']",
+         "density": NULL
         },
         "geometry": {
            "type": "Polygon",
@@ -65,7 +70,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['EMBU']"
+         "name": "['EMBU']",
+         "density": 680.739428571
         },
         "geometry": {
            "type": "Polygon",
@@ -77,7 +83,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['GARISSA']"
+         "name": "['GARISSA']",
+         "density": 560.185185185
         },
         "geometry": {
            "type": "Polygon",
@@ -89,7 +96,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['GUCHA']"
+         "name": "['GUCHA']",
+         "density": 847.5832
         },
         "geometry": {
            "type": "Polygon",
@@ -101,7 +109,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['HOMA_BAY']"
+         "name": "['HOMA_BAY']",
+         "density": 379.232222222
         },
         "geometry": {
            "type": "Polygon",
@@ -113,7 +122,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['ISIOLO']"
+         "name": "['ISIOLO']",
+         "density": 261.8028
         },
         "geometry": {
            "type": "Polygon",
@@ -125,7 +135,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KAJIADO']"
+         "name": "['KAJIADO']",
+         "density": 509.22503937
         },
         "geometry": {
            "type": "Polygon",
@@ -137,7 +148,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KAKAMEGA']"
+         "name": "['KAKAMEGA']",
+         "density": 664.85744
         },
         "geometry": {
            "type": "Polygon",
@@ -149,7 +161,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KERICHO']"
+         "name": "['KERICHO']",
+         "density": 473.003444444
         },
         "geometry": {
            "type": "Polygon",
@@ -161,7 +174,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KIAMBU']"
+         "name": "['KIAMBU']",
+         "density": 1783.16545455
         },
         "geometry": {
            "type": "Polygon",
@@ -173,7 +187,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KILIFI']"
+         "name": "['KILIFI']",
+         "density": 326.300121951
         },
         "geometry": {
            "type": "Polygon",
@@ -185,7 +200,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KIRINYAGA']"
+         "name": "['KIRINYAGA']",
+         "density": 551.941358025
         },
         "geometry": {
            "type": "Polygon",
@@ -197,7 +213,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KISII']"
+         "name": "['KISII']",
+         "density": 1108.68016667
         },
         "geometry": {
            "type": "Polygon",
@@ -209,7 +226,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KISUMU']"
+         "name": "['KISUMU']",
+         "density": 1400.88869565
         },
         "geometry": {
            "type": "Polygon",
@@ -221,7 +239,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KITUI']"
+         "name": "['KITUI']",
+         "density": 186.304883721
         },
         "geometry": {
            "type": "Polygon",
@@ -233,7 +252,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KOIBATEK']"
+         "name": "['KOIBATEK']",
+         "density": 106.037906977
         },
         "geometry": {
            "type": "Polygon",
@@ -245,7 +265,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KURIA']"
+         "name": "['KURIA']",
+         "density": 518.096170213
         },
         "geometry": {
            "type": "Polygon",
@@ -257,7 +278,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['KWALE']"
+         "name": "['KWALE']",
+         "density": 204.338928571
         },
         "geometry": {
            "type": "Polygon",
@@ -269,7 +291,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['LAIKIPIA']"
+         "name": "['LAIKIPIA']",
+         "density": 210.993797468
         },
         "geometry": {
            "type": "Polygon",
@@ -281,7 +304,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['LAMU']"
+         "name": "['LAMU']",
+         "density": 343.031025641
         },
         "geometry": {
            "type": "Polygon",
@@ -293,7 +317,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MACHAKOS']"
+         "name": "['MACHAKOS']",
+         "density": 700.786617647
         },
         "geometry": {
            "type": "Polygon",
@@ -305,7 +330,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MAKUENI']"
+         "name": "['MAKUENI']",
+         "density": 211.608703704
         },
         "geometry": {
            "type": "Polygon",
@@ -317,7 +343,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MALINDI']"
+         "name": "['MALINDI']",
+         "density": 382.995535714
         },
         "geometry": {
            "type": "Polygon",
@@ -329,7 +356,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MANDERA']"
+         "name": "['MANDERA']",
+         "density": 573.212016807
         },
         "geometry": {
            "type": "Polygon",
@@ -341,7 +369,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MARAGUA']"
+         "name": "['MARAGUA']",
+         "density": 534.084133333
         },
         "geometry": {
            "type": "Polygon",
@@ -353,7 +382,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MARAKWET']"
+         "name": "['MARAKWET']",
+         "density": 175.01375
         },
         "geometry": {
            "type": "Polygon",
@@ -365,7 +395,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MARSABIT']"
+         "name": "['MARSABIT']",
+         "density": 539.896666667
         },
         "geometry": {
            "type": "Polygon",
@@ -377,7 +408,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MBEERE']"
+         "name": "['MBEERE']",
+         "density": 132.822380952
         },
         "geometry": {
            "type": "Polygon",
@@ -389,7 +421,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MERU']"
+         "name": "['MERU']",
+         "density": 515.45109375
         },
         "geometry": {
            "type": "Polygon",
@@ -401,7 +434,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MERU SOUTH']"
+         "name": "['MERU SOUTH']",
+         "density": 453.62
         },
         "geometry": {
            "type": "Polygon",
@@ -413,7 +447,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MIGORI']"
+         "name": "['MIGORI']",
+         "density": 375.619206349
         },
         "geometry": {
            "type": "Polygon",
@@ -425,7 +460,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MOMBASA']"
+         "name": "['MOMBASA']",
+         "density": 9783.21761905
         },
         "geometry": {
            "type": "Polygon",
@@ -437,7 +473,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MT.ELGON']"
+         "name": "['MT.ELGON']",
+         "density": 528.918536585
         },
         "geometry": {
            "type": "Polygon",
@@ -449,7 +486,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['MURANGA']"
+         "name": "['MURANGA']",
+         "density": NULL
         },
         "geometry": {
            "type": "Polygon",
@@ -461,7 +499,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NAIROBI']"
+         "name": "['NAIROBI']",
+         "density": 24052.3868041
         },
         "geometry": {
            "type": "Polygon",
@@ -473,7 +512,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NAKURU']"
+         "name": "['NAKURU']",
+         "density": 1385.23404255
         },
         "geometry": {
            "type": "Polygon",
@@ -485,7 +525,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NANDI']"
+         "name": "['NANDI']",
+         "density": 333.619516129
         },
         "geometry": {
            "type": "Polygon",
@@ -497,7 +538,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NAROK']"
+         "name": "['NAROK']",
+         "density": 75.9165714286
         },
         "geometry": {
            "type": "Polygon",
@@ -509,7 +551,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NYAMBENE']"
+         "name": "['NYAMBENE']",
+         "density": 836.132368421
         },
         "geometry": {
            "type": "Polygon",
@@ -521,7 +564,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NYAMIRA']"
+         "name": "['NYAMIRA']",
+         "density": 230.47654321
         },
         "geometry": {
            "type": "Polygon",
@@ -533,7 +577,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NYANDARUA']"
+         "name": "['NYANDARUA']",
+         "density": 560.342193878
         },
         "geometry": {
            "type": "Polygon",
@@ -545,7 +590,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['NYERI']"
+         "name": "['NYERI']",
+         "density": 54.7787962963
         },
         "geometry": {
            "type": "Polygon",
@@ -557,7 +603,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['SAMBURU']"
+         "name": "['SAMBURU']",
+         "density": 388.717923077
         },
         "geometry": {
            "type": "Polygon",
@@ -569,7 +616,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['SIAYA']"
+         "name": "['SIAYA']",
+         "density": 235.33884058
         },
         "geometry": {
            "type": "Polygon",
@@ -581,7 +629,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['TAITA TAVETA']"
+         "name": "['TAITA TAVETA']",
+         "density": 304.152857143
         },
         "geometry": {
            "type": "Polygon",
@@ -593,7 +642,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['TANA RIVER']"
+         "name": "['TANA RIVER']",
+         "density": 48.5370967742
         },
         "geometry": {
            "type": "Polygon",
@@ -605,7 +655,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['THARAKA']"
+         "name": "['THARAKA']",
+         "density": NULL
         },
         "geometry": {
            "type": "Polygon",
@@ -617,7 +668,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['THIKA']"
+         "name": "['THIKA']",
+         "density": 125.662666667
         },
         "geometry": {
            "type": "Polygon",
@@ -629,7 +681,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['TRANS-NZOIA']"
+         "name": "['TRANS-NZOIA']",
+         "density": 938.59037037
         },
         "geometry": {
            "type": "Polygon",
@@ -641,7 +694,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['TURKANA']"
+         "name": "['TURKANA']",
+         "density": 1084.01315789
         },
         "geometry": {
            "type": "Polygon",
@@ -653,7 +707,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['UASIN GISHU']"
+         "name": "['UASIN GISHU']",
+         "density": 24.9605063291
         },
         "geometry": {
            "type": "Polygon",
@@ -665,7 +720,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['VIHIGA']"
+         "name": "['VIHIGA']",
+         "density": NULL
         },
         "geometry": {
            "type": "Polygon",
@@ -677,7 +733,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['WAJIR']"
+         "name": "['WAJIR']",
+         "density": NULL
         },
         "geometry": {
            "type": "Polygon",
@@ -689,7 +746,8 @@
    {
         "type": "Feature",
         "properties": {
-         "name": "['WEST POKOT']"
+         "name": "['WEST POKOT']",
+         "density": 1152.06571429
         },
         "geometry": {
            "type": "Polygon",
