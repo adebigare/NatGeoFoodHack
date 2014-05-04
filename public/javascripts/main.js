@@ -771,8 +771,9 @@ var popup = new L.Popup({ autoPan: false });
 
 //Population Density Logic
 var GeojsonRender = L.geoJson(GeojsonFeature,  {
-           style: style,
-       }).addTo(map);
+  style: style,
+  onEachFeature: onEachFeature
+}).addTo(map);
 
 $('.button').click().toggle(GeojsonRender);
 
