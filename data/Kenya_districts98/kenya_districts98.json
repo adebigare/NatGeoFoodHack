@@ -6,7 +6,8 @@
         "type": "Feature",
         "properties": {
          "name": "['BARINGO']",
-         "density": 134.838222222
+         "density": 61.2569669257
+         "percent_irrigation": 0.082
         },
         "geometry": {
            "type": "Polygon",
@@ -19,7 +20,8 @@
         "type": "Feature",
         "properties": {
          "name": "['BOMET']",
-         "density": 401.144534884
+         "density": 377.626712914
+         "percent_irrigation": 0.0
         },
         "geometry": {
            "type": "Polygon",
@@ -32,7 +34,8 @@
         "type": "Feature",
         "properties": {
          "name": "['BUNGOMA']",
-         "density": 628.457222222
+         "density": 579.447575654
+         "percent_irrigation": 0.033
         },
         "geometry": {
            "type": "Polygon",
@@ -45,7 +48,8 @@
         "type": "Feature",
         "properties": {
          "name": "['BUSIA']",
-         "density": 519.166730769
+         "density": 481.398634174
+         "percent_irrigation": 0.006
         },
         "geometry": {
            "type": "Polygon",
@@ -58,7 +62,8 @@
         "type": "Feature",
         "properties": {
          "name": "['ELGEYO']",
-         "density": NULL
+         "density": null
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -71,7 +76,8 @@
         "type": "Feature",
         "properties": {
          "name": "['EMBU']",
-         "density": 680.739428571
+         "density": 409.313548223
+         "percent_irrigation": 0.042
         },
         "geometry": {
            "type": "Polygon",
@@ -84,7 +90,8 @@
         "type": "Feature",
         "properties": {
          "name": "['GARISSA']",
-         "density": 560.185185185
+         "density": 34.0094142066
+         "percent_irrigation": 1.0
         },
         "geometry": {
            "type": "Polygon",
@@ -97,7 +104,8 @@
         "type": "Feature",
         "properties": {
          "name": "['GUCHA']",
-         "density": 847.5832
+         "density": 825.51141877
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -110,7 +118,8 @@
         "type": "Feature",
         "properties": {
          "name": "['HOMA_BAY']",
-         "density": 379.232222222
+         "density": 313.395087229
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -123,7 +132,8 @@
         "type": "Feature",
         "properties": {
          "name": "['ISIOLO']",
-         "density": 261.8028
+         "density": 6.45563617792
+         "percent_irrigation": 0.671
         },
         "geometry": {
            "type": "Polygon",
@@ -136,7 +146,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KAJIADO']",
-         "density": 509.22503937
+         "density": 35.4896086304
+         "percent_irrigation": 0.189
         },
         "geometry": {
            "type": "Polygon",
@@ -149,7 +160,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KAKAMEGA']",
-         "density": 664.85744
+         "density": 533.906101123
+         "percent_irrigation": 0.022
         },
         "geometry": {
            "type": "Polygon",
@@ -162,7 +174,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KERICHO']",
-         "density": 473.003444444
+         "density": 365.621998325
+         "percent_irrigation": 0.002
         },
         "geometry": {
            "type": "Polygon",
@@ -175,7 +188,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KIAMBU']",
-         "density": 1783.16545455
+         "density": 817.572639818
+         "percent_irrigation": 0.097
         },
         "geometry": {
            "type": "Polygon",
@@ -188,7 +202,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KILIFI']",
-         "density": 326.300121951
+         "density": 116.245611003
+         "percent_irrigation": 0.0
         },
         "geometry": {
            "type": "Polygon",
@@ -201,7 +216,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KIRINYAGA']",
-         "density": 551.941358025
+         "density": 357.022429655
+         "percent_irrigation": 0.269
         },
         "geometry": {
            "type": "Polygon",
@@ -214,7 +230,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KISII']",
-         "density": 1108.68016667
+         "density": 981.315047701
+         "percent_irrigation": 0.004
         },
         "geometry": {
            "type": "Polygon",
@@ -227,7 +244,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KISUMU']",
-         "density": 1400.88869565
+         "density": 673.921246677
+         "percent_irrigation": 0.011
         },
         "geometry": {
            "type": "Polygon",
@@ -240,7 +258,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KITUI']",
-         "density": 186.304883721
+         "density": 58.773786891
+         "percent_irrigation": 0.022
         },
         "geometry": {
            "type": "Polygon",
@@ -253,7 +272,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KOIBATEK']",
-         "density": 106.037906977
+         "density": 71.7388885053
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -266,7 +286,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KURIA']",
-         "density": 518.096170213
+         "density": 439.510777759
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -279,7 +300,8 @@
         "type": "Feature",
         "properties": {
          "name": "['KWALE']",
-         "density": 204.338928571
+         "density": 147.375371994
+         "percent_irrigation": 0.009
         },
         "geometry": {
            "type": "Polygon",
@@ -292,7 +314,8 @@
         "type": "Feature",
         "properties": {
          "name": "['LAIKIPIA']",
-         "density": 210.993797468
+         "density": 42.1937707357
+         "percent_irrigation": 0.041
         },
         "geometry": {
            "type": "Polygon",
@@ -305,7 +328,8 @@
         "type": "Feature",
         "properties": {
          "name": "['LAMU']",
-         "density": 343.031025641
+         "density": 16.1834704317
+         "percent_irrigation": 0.036
         },
         "geometry": {
            "type": "Polygon",
@@ -318,7 +342,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MACHAKOS']",
-         "density": 700.786617647
+         "density": 224.202320456
+         "percent_irrigation": 0.136
         },
         "geometry": {
            "type": "Polygon",
@@ -331,7 +356,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MAKUENI']",
-         "density": 211.608703704
+         "density": 148.116133876
+         "percent_irrigation": 0.137
         },
         "geometry": {
            "type": "Polygon",
@@ -344,7 +370,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MALINDI']",
-         "density": 382.995535714
+         "density": 51.3988348462
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -357,7 +384,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MANDERA']",
-         "density": 573.212016807
+         "density": 39.4661794442
+         "percent_irrigation": 1.0
         },
         "geometry": {
            "type": "Polygon",
@@ -370,7 +398,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MARAGUA']",
-         "density": 534.084133333
+         "density": 397.481545542
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -383,7 +412,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MARAKWET']",
-         "density": 175.01375
+         "density": 117.771010906
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -396,7 +426,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MARSABIT']",
-         "density": 539.896666667
+         "density": 22.6500591638
+         "percent_irrigation": 0.004
         },
         "geometry": {
            "type": "Polygon",
@@ -409,7 +440,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MBEERE']",
-         "density": 132.822380952
+         "density": 104.761607574
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -422,7 +454,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MERU']",
-         "density": 515.45109375
+         "density": 179.419342142
+         "percent_irrigation": 0.124
         },
         "geometry": {
            "type": "Polygon",
@@ -435,7 +468,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MERU SOUTH']",
-         "density": 453.62
+         "density": 205.303324412
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -448,7 +482,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MIGORI']",
-         "density": 375.619206349
+         "density": 287.635027748
+         "percent_irrigation": 0.025
         },
         "geometry": {
            "type": "Polygon",
@@ -461,7 +496,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MOMBASA']",
-         "density": 9783.21761905
+         "density": 4145.37153901
+         "percent_irrigation": 0.0
         },
         "geometry": {
            "type": "Polygon",
@@ -474,7 +510,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MT.ELGON']",
-         "density": 528.918536585
+         "density": 180.209342742
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -487,7 +524,8 @@
         "type": "Feature",
         "properties": {
          "name": "['MURANGA']",
-         "density": NULL
+         "density": null
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -500,7 +538,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NAIROBI']",
-         "density": 24052.3868041
+         "density": 4835.84528174
+         "percent_irrigation": 0.171
         },
         "geometry": {
            "type": "Polygon",
@@ -513,7 +552,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NAKURU']",
-         "density": 1385.23404255
+         "density": 327.947696039
+         "percent_irrigation": 0.008
         },
         "geometry": {
            "type": "Polygon",
@@ -526,7 +566,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NANDI']",
-         "density": 333.619516129
+         "density": 269.876194285
+         "percent_irrigation": 0.008
         },
         "geometry": {
            "type": "Polygon",
@@ -539,7 +580,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NAROK']",
-         "density": 75.9165714286
+         "density": 38.2361870741
+         "percent_irrigation": 0.045
         },
         "geometry": {
            "type": "Polygon",
@@ -552,7 +594,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NYAMBENE']",
-         "density": 836.132368421
+         "density": 817.805467671
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -565,7 +608,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NYAMIRA']",
-         "density": 230.47654321
+         "density": 183.736614734
+         "percent_irrigation": 0.014
         },
         "geometry": {
            "type": "Polygon",
@@ -578,7 +622,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NYANDARUA']",
-         "density": 560.342193878
+         "density": 207.829112191
+         "percent_irrigation": 0.158
         },
         "geometry": {
            "type": "Polygon",
@@ -591,7 +636,8 @@
         "type": "Feature",
         "properties": {
          "name": "['NYERI']",
-         "density": 54.7787962963
+         "density": 10.6534876481
+         "percent_irrigation": 0.0
         },
         "geometry": {
            "type": "Polygon",
@@ -604,7 +650,8 @@
         "type": "Feature",
         "properties": {
          "name": "['SAMBURU']",
-         "density": 388.717923077
+         "density": 358.680329066
+         "percent_irrigation": 0.009
         },
         "geometry": {
            "type": "Polygon",
@@ -617,7 +664,8 @@
         "type": "Feature",
         "properties": {
          "name": "['SIAYA']",
-         "density": 235.33884058
+         "density": 15.9745825219
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -630,7 +678,8 @@
         "type": "Feature",
         "properties": {
          "name": "['TAITA TAVETA']",
-         "density": 304.152857143
+         "density": 19.3265822163
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -643,7 +692,8 @@
         "type": "Feature",
         "properties": {
          "name": "['TANA RIVER']",
-         "density": 48.5370967742
+         "density": 6.2460477447
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -656,7 +706,8 @@
         "type": "Feature",
         "properties": {
          "name": "['THARAKA']",
-         "density": NULL
+         "density": null
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -669,7 +720,8 @@
         "type": "Feature",
         "properties": {
          "name": "['THIKA']",
-         "density": 125.662666667
+         "density": 83.9582240192
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -682,7 +734,8 @@
         "type": "Feature",
         "properties": {
          "name": "['TRANS-NZOIA']",
-         "density": 938.59037037
+         "density": 399.475944332
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -695,7 +748,8 @@
         "type": "Feature",
         "properties": {
          "name": "['TURKANA']",
-         "density": 1084.01315789
+         "density": 423.572698617
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -708,7 +762,8 @@
         "type": "Feature",
         "properties": {
          "name": "['UASIN GISHU']",
-         "density": 24.9605063291
+         "density": 12.4549437022
+         "percent_irrigation": 0.085
         },
         "geometry": {
            "type": "Polygon",
@@ -721,7 +776,8 @@
         "type": "Feature",
         "properties": {
          "name": "['VIHIGA']",
-         "density": NULL
+         "density": null
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -734,7 +790,8 @@
         "type": "Feature",
         "properties": {
          "name": "['WAJIR']",
-         "density": NULL
+         "density": null
+         "percent_irrigation": null
         },
         "geometry": {
            "type": "Polygon",
@@ -747,7 +804,8 @@
         "type": "Feature",
         "properties": {
          "name": "['WEST POKOT']",
-         "density": 1152.06571429
+         "density": 1100.93491444
+         "percent_irrigation": 0.0
         },
         "geometry": {
            "type": "Polygon",
