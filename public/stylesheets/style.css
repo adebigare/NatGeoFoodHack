@@ -1,6 +1,6 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 16px "Roboto","Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -23,29 +23,26 @@ a {
   float:left;
   margin-right:10px;
   }
-.leaflet-popup-close-button {
-  display: none;
-  }
-.leaflet-popup-content-wrapper {
-  pointer-events: none;
-  }
 
-.YlOrBr .q0-5{
-  fill:rgb(255,255,212)
+.text {
+  padding: 3%;
 }
 
-.YlOrBr .q1-5{
-  fill:rgb(254,217,142)
+.navbar {
+  background-color: #5FEF42;
+  height: 30px;
+
 }
 
-.YlOrBr .q2-5{
-  fill:rgb(254,153,41)
+.navbar-inverse .navbar-brand {
+  color: white;
 }
 
-.YlOrBr .q3-5{
-  fill:rgb(217,95,14)
+.navbar-inverse {
+  border-bottom: 1px solid #CEFAC5;
+
+  box-shadow: 1px 1px 0 #5FEF42;
+
 }
 
-.YlOrBr .q4-5{
-  fill:rgb(153,52,4)
-}
+
