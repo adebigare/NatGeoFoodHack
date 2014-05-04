@@ -11,7 +11,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['BARINGO']",
-           "density": 61.2569669257
+           "density": 61.2569669257,
            "percent_irrigation": 0.082
           },
           "geometry": {
@@ -25,7 +25,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['BOMET']",
-           "density": 377.626712914
+           "density": 377.626712914,
            "percent_irrigation": 0.0
           },
           "geometry": {
@@ -39,7 +39,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['BUNGOMA']",
-           "density": 579.447575654
+           "density": 579.447575654,
            "percent_irrigation": 0.033
           },
           "geometry": {
@@ -53,7 +53,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['BUSIA']",
-           "density": 481.398634174
+           "density": 481.398634174,
            "percent_irrigation": 0.006
           },
           "geometry": {
@@ -67,7 +67,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['ELGEYO']",
-           "density": null
+           "density": null,
            "percent_irrigation": null
           },
           "geometry": {
@@ -81,7 +81,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['EMBU']",
-           "density": 409.313548223
+           "density": 409.313548223,
            "percent_irrigation": 0.042
           },
           "geometry": {
@@ -95,7 +95,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['GARISSA']",
-           "density": 34.0094142066
+           "density": 34.0094142066,
            "percent_irrigation": 1.0
           },
           "geometry": {
@@ -109,7 +109,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['GUCHA']",
-           "density": 825.51141877
+           "density": 825.51141877,
            "percent_irrigation": null
           },
           "geometry": {
@@ -123,7 +123,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['HOMA_BAY']",
-           "density": 313.395087229
+           "density": 313.395087229,
            "percent_irrigation": null
           },
           "geometry": {
@@ -137,7 +137,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['ISIOLO']",
-           "density": 6.45563617792
+           "density": 6.45563617792,
            "percent_irrigation": 0.671
           },
           "geometry": {
@@ -151,7 +151,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KAJIADO']",
-           "density": 35.4896086304
+           "density": 35.4896086304,
            "percent_irrigation": 0.189
           },
           "geometry": {
@@ -165,7 +165,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KAKAMEGA']",
-           "density": 533.906101123
+           "density": 533.906101123,
            "percent_irrigation": 0.022
           },
           "geometry": {
@@ -179,7 +179,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KERICHO']",
-           "density": 365.621998325
+           "density": 365.621998325,
            "percent_irrigation": 0.002
           },
           "geometry": {
@@ -193,7 +193,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KIAMBU']",
-           "density": 817.572639818
+           "density": 817.572639818,
            "percent_irrigation": 0.097
           },
           "geometry": {
@@ -207,7 +207,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KILIFI']",
-           "density": 116.245611003
+           "density": 116.245611003,
            "percent_irrigation": 0.0
           },
           "geometry": {
@@ -221,7 +221,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KIRINYAGA']",
-           "density": 357.022429655
+           "density": 357.022429655,
            "percent_irrigation": 0.269
           },
           "geometry": {
@@ -235,7 +235,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KISII']",
-           "density": 981.315047701
+           "density": 981.315047701,
            "percent_irrigation": 0.004
           },
           "geometry": {
@@ -249,7 +249,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KISUMU']",
-           "density": 673.921246677
+           "density": 673.921246677,
            "percent_irrigation": 0.011
           },
           "geometry": {
@@ -263,7 +263,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KITUI']",
-           "density": 58.773786891
+           "density": 58.773786891,
            "percent_irrigation": 0.022
           },
           "geometry": {
@@ -277,7 +277,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KOIBATEK']",
-           "density": 71.7388885053
+           "density": 71.7388885053,
            "percent_irrigation": null
           },
           "geometry": {
@@ -291,7 +291,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KURIA']",
-           "density": 439.510777759
+           "density": 439.510777759,
            "percent_irrigation": null
           },
           "geometry": {
@@ -305,7 +305,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['KWALE']",
-           "density": 147.375371994
+           "density": 147.375371994,
            "percent_irrigation": 0.009
           },
           "geometry": {
@@ -319,7 +319,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['LAIKIPIA']",
-           "density": 42.1937707357
+           "density": 42.1937707357,
            "percent_irrigation": 0.041
           },
           "geometry": {
@@ -333,7 +333,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['LAMU']",
-           "density": 16.1834704317
+           "density": 16.1834704317,
            "percent_irrigation": 0.036
           },
           "geometry": {
@@ -347,7 +347,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MACHAKOS']",
-           "density": 224.202320456
+           "density": 224.202320456,
            "percent_irrigation": 0.136
           },
           "geometry": {
@@ -361,7 +361,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MAKUENI']",
-           "density": 148.116133876
+           "density": 148.116133876,
            "percent_irrigation": 0.137
           },
           "geometry": {
@@ -375,7 +375,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MALINDI']",
-           "density": 51.3988348462
+           "density": 51.3988348462,
            "percent_irrigation": null
           },
           "geometry": {
@@ -389,7 +389,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MANDERA']",
-           "density": 39.4661794442
+           "density": 39.4661794442,
            "percent_irrigation": 1.0
           },
           "geometry": {
@@ -403,7 +403,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MARAGUA']",
-           "density": 397.481545542
+           "density": 397.481545542,
            "percent_irrigation": null
           },
           "geometry": {
@@ -417,7 +417,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MARAKWET']",
-           "density": 117.771010906
+           "density": 117.771010906,
            "percent_irrigation": null
           },
           "geometry": {
@@ -431,7 +431,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MARSABIT']",
-           "density": 22.6500591638
+           "density": 22.6500591638,
            "percent_irrigation": 0.004
           },
           "geometry": {
@@ -445,7 +445,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MBEERE']",
-           "density": 104.761607574
+           "density": 104.761607574,
            "percent_irrigation": null
           },
           "geometry": {
@@ -459,7 +459,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MERU']",
-           "density": 179.419342142
+           "density": 179.419342142,
            "percent_irrigation": 0.124
           },
           "geometry": {
@@ -473,7 +473,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MERU SOUTH']",
-           "density": 205.303324412
+           "density": 205.303324412,
            "percent_irrigation": null
           },
           "geometry": {
@@ -487,7 +487,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MIGORI']",
-           "density": 287.635027748
+           "density": 287.635027748,
            "percent_irrigation": 0.025
           },
           "geometry": {
@@ -501,7 +501,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MOMBASA']",
-           "density": 4145.37153901
+           "density": 4145.37153901,
            "percent_irrigation": 0.0
           },
           "geometry": {
@@ -515,7 +515,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MT.ELGON']",
-           "density": 180.209342742
+           "density": 180.209342742,
            "percent_irrigation": null
           },
           "geometry": {
@@ -529,7 +529,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['MURANGA']",
-           "density": null
+           "density": null,
            "percent_irrigation": null
           },
           "geometry": {
@@ -543,7 +543,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NAIROBI']",
-           "density": 4835.84528174
+           "density": 4835.84528174,
            "percent_irrigation": 0.171
           },
           "geometry": {
@@ -557,7 +557,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NAKURU']",
-           "density": 327.947696039
+           "density": 327.947696039,
            "percent_irrigation": 0.008
           },
           "geometry": {
@@ -571,7 +571,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NANDI']",
-           "density": 269.876194285
+           "density": 269.876194285,
            "percent_irrigation": 0.008
           },
           "geometry": {
@@ -585,7 +585,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NAROK']",
-           "density": 38.2361870741
+           "density": 38.2361870741,
            "percent_irrigation": 0.045
           },
           "geometry": {
@@ -599,7 +599,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NYAMBENE']",
-           "density": 817.805467671
+           "density": 817.805467671,
            "percent_irrigation": null
           },
           "geometry": {
@@ -613,7 +613,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NYAMIRA']",
-           "density": 183.736614734
+           "density": 183.736614734,
            "percent_irrigation": 0.014
           },
           "geometry": {
@@ -627,7 +627,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NYANDARUA']",
-           "density": 207.829112191
+           "density": 207.829112191,
            "percent_irrigation": 0.158
           },
           "geometry": {
@@ -641,7 +641,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['NYERI']",
-           "density": 10.6534876481
+           "density": 10.6534876481,
            "percent_irrigation": 0.0
           },
           "geometry": {
@@ -655,7 +655,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['SAMBURU']",
-           "density": 358.680329066
+           "density": 358.680329066,
            "percent_irrigation": 0.009
           },
           "geometry": {
@@ -669,7 +669,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['SIAYA']",
-           "density": 15.9745825219
+           "density": 15.9745825219,
            "percent_irrigation": null
           },
           "geometry": {
@@ -683,7 +683,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['TAITA TAVETA']",
-           "density": 19.3265822163
+           "density": 19.3265822163,
            "percent_irrigation": null
           },
           "geometry": {
@@ -697,7 +697,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['TANA RIVER']",
-           "density": 6.2460477447
+           "density": 6.2460477447,
            "percent_irrigation": null
           },
           "geometry": {
@@ -711,7 +711,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['THARAKA']",
-           "density": null
+           "density": null,
            "percent_irrigation": null
           },
           "geometry": {
@@ -725,7 +725,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['THIKA']",
-           "density": 83.9582240192
+           "density": 83.9582240192,
            "percent_irrigation": null
           },
           "geometry": {
@@ -739,7 +739,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['TRANS-NZOIA']",
-           "density": 399.475944332
+           "density": 399.475944332,
            "percent_irrigation": null
           },
           "geometry": {
@@ -753,7 +753,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['TURKANA']",
-           "density": 423.572698617
+           "density": 423.572698617,
            "percent_irrigation": null
           },
           "geometry": {
@@ -767,7 +767,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['UASIN GISHU']",
-           "density": 12.4549437022
+           "density": 12.4549437022,
            "percent_irrigation": 0.085
           },
           "geometry": {
@@ -781,7 +781,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['VIHIGA']",
-           "density": null
+           "density": null,
            "percent_irrigation": null
           },
           "geometry": {
@@ -795,7 +795,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['WAJIR']",
-           "density": null
+           "density": null,
            "percent_irrigation": null
           },
           "geometry": {
@@ -809,7 +809,7 @@ var GeojsonFeature =
           "type": "Feature",
           "properties": {
            "name": "['WEST POKOT']",
-           "density": 1100.93491444
+           "density": 1100.93491444,
            "percent_irrigation": 0.0
           },
           "geometry": {
