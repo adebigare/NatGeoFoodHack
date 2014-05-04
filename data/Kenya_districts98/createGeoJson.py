@@ -16,15 +16,16 @@ f.write(beginning)
 for i in range(len(shapes)):
    shape = shapes[i]
    avg_popdensity = means[i]
-   if (avg_popdensity < -1): avg_popdensity = "NULL"
+   if (avg_popdensity <= -1): 
+      avg_popdensity = "null"
    record = records[i]
    # "bbox": %s
    shape_entry ="""
    {
         "type": "Feature",
         "properties": {
-         "name": "%s"
-         "density": "%s"
+         "name": "%s",
+         "density": %s
         },
         "geometry": {
            "type": "Polygon",
