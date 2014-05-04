@@ -15,6 +15,7 @@ a {
 
 #map-container {
   height:600px;
+  padding: 0 50px;
 }
 
 .map-legend .swatch {
@@ -29,7 +30,7 @@ a {
 }
 
 .navbar {
-  background-color: #5FEF42;
+  background-color: #545E5E;
   height: 30px;
 
 }
@@ -39,12 +40,13 @@ a {
 }
 
 .navbar-inverse {
-  border-bottom: 1px solid #CEFAC5;
+  border-bottom: 1px solid #545E5E;
 
-  box-shadow: 1px 1px 0 #5FEF42;
+  box-shadow: 1px 1px 0 #545E5E;
 
 }
 
 li {
   list-style-type: none;
 }
+
