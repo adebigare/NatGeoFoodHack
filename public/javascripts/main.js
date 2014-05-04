@@ -898,6 +898,8 @@ function zoomToFeature(e) {
     map.fitBounds(e.target.getBounds());
 };
 
+
+
 map.legendControl.addLegend(getLegendHTML());
 
 function getLegendHTML() {
