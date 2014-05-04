@@ -834,7 +834,7 @@ function mousemove(e) {
 };
 
 function mouseout(e) {
-    statesLayer.resetStyle(e.target);
+    GeojsonRender.resetStyle(e.target);
     closeTooltip = window.setTimeout(function() {
         map.closePopup();
     }, 100);
