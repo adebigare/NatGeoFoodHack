@@ -815,7 +815,7 @@ function mousemove(e) {
     var layer = e.target;
 
     popup.setLatLng(e.latlng);
-    popup.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
+    popup.setContent('<div class="marker-title">' + layer.feature.properties.name.slice(2, layer.feature.properties.name.length - 2) + '</div>' +
         Math.round(layer.feature.properties.density) + ' people per square mile');
 
     if (!popup._map) popup.openOn(map);
