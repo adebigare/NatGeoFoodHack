@@ -1,16 +1,127 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+  <head>    
     <title><%= title %></title>
+
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/dashboard.css" rel="stylesheet">    
+
     <link rel='stylesheet' href='/stylesheets/style.css'></link>
     <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css' rel='stylesheet'></link>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+  
+      <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
   </head>
   <body>
-    <div id="map-container">
-      <div id="map"></div>
+
+      <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Food Brood Inc</a>
+        </div>
+        <!-- <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Population</a></li>
+            <li><a href="#">Population</a></li>
+            <li><a href="#">Population</a></li>
+            <li><a href="#">Population</a></li>
+          </ul>
+        </div> -->
+      </div>
     </div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-2 col-md-1 sidebar">
+          <div class="nav nav-sidebar">
+
+            <li><a class="active btn btn-info" href="#">Population</a></li>
+            <li><a class="" href="#">Rainfall</a></li>
+            <li><a class="" href="#">Irrigation</a></li>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-9 col-sm-offset-2 col-md-offset-1 main">
+          <h1 class="page-header">Map</h1>
+
+        <div id="map-container">
+          <div id="map"></div>
+          </div>
+
+<!--           <div class="row placeholders">
+            <div class="col-xs-6 col-sm-3 placeholder">
+              <img data-src="holder.js/200x200/auto/sky" class="img-responsive" alt="Generic placeholder thumbnail">
+              <h4>Map Name</h4>
+              <span class="text-muted">Map Goes Here</span>
+            </div>            
+          </div> -->
+
+          <h2 class="sub-header">Section title</h2>
+          <div class="table-responsive">
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Header</th>
+                  <th>Header</th>
+                  <th>Header</th>
+                  <th>Header</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1,001</td>
+                  <td>Lorem</td>
+                  <td>ipsum</td>
+                  <td>dolor</td>
+                  <td>sit</td>
+                </tr>
+                <tr>
+                  <td>1,002</td>
+                  <td>amet</td>
+                  <td>consectetur</td>
+                  <td>adipiscing</td>
+                  <td>elit</td>
+                </tr>
+                <tr>
+                  <td>1,015</td>
+                  <td>sodales</td>
+                  <td>ligula</td>
+                  <td>in</td>
+                  <td>libero</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="col-sm-4 col-md-2 col-sm-offset-8 col-md-offset-10 sidebar">
+          Lorem Ipsum Test Test Lorem Ipsum Test Test 
+          Lorem Ipsum Test Test 
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/docs.min.js"></script>
     <script src='/javascripts/main.js'></script>
   </body>
 </html>
